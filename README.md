@@ -232,3 +232,5 @@ tasks when building a web server.
 
 [rack]: https://github.com/rack/rack
 [http-status]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+https://github.com/G3o-R/phase-3-web-server-fundamentals-with-rack
